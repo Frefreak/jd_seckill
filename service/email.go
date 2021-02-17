@@ -1,7 +1,7 @@
 package service
 
 import (
-	"../conf"
+	"asdf/conf"
 	"gopkg.in/gomail.v2"
 	"strconv"
 )
